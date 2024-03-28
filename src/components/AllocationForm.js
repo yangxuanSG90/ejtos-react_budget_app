@@ -31,6 +31,8 @@ const AllocationForm = (props) => {
                     payload: expense,
                 });
             }
+
+            
     };
 
     return (
